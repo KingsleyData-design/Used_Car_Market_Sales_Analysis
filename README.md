@@ -19,7 +19,7 @@ Key Insights
 - Newer cars fetchs higher resale prices.
 - Vehicle prices vary across manufacturing years.
 
-- Recommendations
+Recommendations
 - Budget buyers should consider Tata or Chevrolet depends on budget.
 - Diesel car owners have a pricing advantage when reselling.
 - Buying post - 2015 models retains better resale value, because they can be easily resold in the nearest future.
