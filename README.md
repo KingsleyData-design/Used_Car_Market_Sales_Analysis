@@ -2,6 +2,7 @@ Tools Used
 - Microsoft Excel
 - SQL Server
 - Power BI
+- Python (Pandas,Matplotlib)
 
 Project Objectives 
 - Performed the same Analysis across different tools, solving the same Questions.
