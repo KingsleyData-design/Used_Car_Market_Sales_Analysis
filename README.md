@@ -1,5 +1,5 @@
 ## Project Overview 
-This project Analyzed used car market sale to identify price trend, kms driven, fuel type and patterns across multiple car companies including Ford, Hyundai, Honda,  Mahindra, Maruti, Chevrolet, Tata and some more.
+This project Analyzed used car market sale to identify price trend, kms driven, fuel type and price patterns across multiple car companies including Ford, Hyundai, Honda, Mahindra, Maruti, Chevrolet, Tata and some more.
 
 ## Tools Used
 - Excel — Data cleaning, Data exploration, Pivot tables and Dashboards
