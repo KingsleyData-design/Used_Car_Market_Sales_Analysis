@@ -1,7 +1,7 @@
 # USED CAR PRICE PREDICTION ANALYSIS DASHBOARD 
 
 ## Project Overview 
-This project Analyzed used car market sale to identify price trend, kms driven, fuel type and price patterns across multiple car companies including Ford, Hyundai, Honda, Mahindra, Maruti, Chevrolet, Tata and some more.
+This project Analyzed used car market sale to identify price trend, kms driven, fuel type and price patterns across multiple car companies. By the end of this analysis, i was able to tell a full story of which car brand had the Highest Average price and Lowest Average price including the Average car price, price range and their fuel type.
 
 ## Tools Used
 - Excel — Data cleaning, Data exploration, Pivot tables and Dashboards
