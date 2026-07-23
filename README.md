@@ -35,7 +35,7 @@
 Same reasoning as the rest of this portfolio — four tools, same questions, because the point is proving the logic holds up no matter which one's doing the calculating.
 
 - **Files**
-used-car-price-cleaned.xlsx — cleaned data + Excel dashboard
-Used-Car-Price-Prediction-Analysis.pbix — Power BI dashboard
-used-car-price-queries.sql — all the SQL, commented
-used-car-price-analysis.ipynb — Python notebook
+- `used-car-price-cleaned.xlsx — cleaned data + Excel dashboard`
+- `Used-Car-Price-Prediction-Analysis.pbix — Power BI dashboard`
+- `used-car-price-queries.sql — all the SQL, commented`
+- `used-car-price-analysis.ipynb — Python notebook`
